@@ -1,0 +1,10 @@
+Key 1
+073403c8a58a1f80d943455fb30724b9 (Found via Robots.txt > key-1-of-3.txt ||||| Robots.txt found via Gobuster
+
+Key 2
+
+Key 3 
+
+Wp-login.php
+Username - Elliot (Found via Hydra with fsocity.dic from robots.txt)
+Username - ER28-0652 (Found via Hydra with username and fsocity.dic from robots.txt)
